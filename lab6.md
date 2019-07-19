@@ -20,3 +20,6 @@ There are multiple conatiners running in this example, not sure which one is the
 Also, not sure about if we need to update this node.js  
 I tried to update this in windows, seems like it doesn't change  
 ![ex4.2](ex4.3.png)
+Later I realized that this is the old version of lab  
+However, When I tried the new one 
+![ex4.4](ex4.4.png)
