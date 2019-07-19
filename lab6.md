@@ -23,3 +23,4 @@ I tried to update this in windows, seems like it doesn't change
 Later I realized that this is the old version of lab  
 However, When I tried the new one 
 ![ex4.4](ex4.4.png)
+I tried to update, it still goes wrong, maybe because it is windows system...
