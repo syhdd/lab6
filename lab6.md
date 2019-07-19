@@ -24,3 +24,7 @@ Later I realized that this is the old version of lab
 However, When I tried the new one 
 ![ex4.4](ex4.4.png)
 I tried to update, it still goes wrong, maybe because it is windows system...
+So I delete the node directory to fixed it, finally  
+![ex4.5](ex4.5.png)
+![ex4.6](ex4.6.png)
+![ex4.7](ex4.7.png)
